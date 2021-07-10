@@ -8,7 +8,7 @@ on:
 
 env:
   GODOT_VERSION: 3.3.2
-  EXPORT_NAME: GWJ35
+  EXPORT_NAME: GWJ35_rainthieves
 
 jobs:
   export-windows:
